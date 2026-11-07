@@ -2,7 +2,7 @@
 
 I'm a FullStack Engineer passionate about building high-performance, scalable, and visually engaging web applications.
 
-I'm currently working on: Remix | Nextjs | Reactjs | Nodejs | GenAI | JavaScript | TypeScript | Jest etc.
+I'm currently working on: Nextjs | Reactjs | Nodejs | GenAI | JavaScript | TypeScript | Jest etc.
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 ✨ Outside work: photography, reading and sketching
 
 📥 Mail: ishan.taunk444@gmail.com
+
 🔗 LinkedIn: [https://www.linkedin.com/in/ishantaunk/](https://www.linkedin.com/in/ishan-taunk-726b0119b/)
+
 🔗 Portfolio: [https://tiashab.netlify.app/](http://localhost:3000/Portfolio-ishan)
