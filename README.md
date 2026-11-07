@@ -7,8 +7,11 @@ I'm currently working on: Nextjs | Reactjs | Nodejs | GenAI | JavaScript | TypeS
 Here are some ideas to get you started:
 
 💼 6+ Years of Experience in Software Development
+
 🎓 B.Tech, IIT ISM Dhanbad
+
 🌱 Passionate about AI and next-gen tech
+
 ✨ Outside work: photography, reading and sketching
 
 📥 Mail: ishan.taunk444@gmail.com
