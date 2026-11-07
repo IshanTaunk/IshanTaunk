@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 🔗 LinkedIn: [https://www.linkedin.com/in/ishantaunk/](https://www.linkedin.com/in/ishan-taunk-726b0119b/)
 
-🔗 Portfolio: [https://tiashab.netlify.app/](http://localhost:3000/Portfolio-ishan)
+🔗 Portfolio: [https://ishantaunk.github.io/Portfolio-ishan/](https://ishantaunk.github.io/Portfolio-ishan/)
